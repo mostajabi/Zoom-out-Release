@@ -70,4 +70,8 @@ The script for training is included in train.lua, currently we are using stochas
 
 http://ttic.uchicago.edu/~mostajabi/files/zoomout_model.net
 
+## Acknowledgments
+
+This work was supported by the National Science Foundation under award RI:1409837  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors, and do not necessarily reflect the views of the National Science Foundation.
+
 
